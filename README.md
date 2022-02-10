@@ -29,7 +29,7 @@ Mi meta principal con la carrera es graduarme con honores y seguir destacando en
 
 ---
 
-## Horario de clase
+## Horario de clase (Lenguajes de Interfaz)
 |    **Hora**   | **Lunes** | **Martes** | **Miercoles** | **Jueves** |
 |:-------------:|:---------:|:----------:|:-------------:|:----------:|
 | 16:00 - 17:00 | LI        | LI         | LI            | LI         |
