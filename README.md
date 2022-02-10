@@ -1,4 +1,4 @@
-# NotsoJharedtroll0x17's 5OUL ON D!SPLAY
+# NotsoJharedtroll0x17's 5OUL ON D!SPLAY 🗿 🐧 💯
 
 ![](https://drive.google.com/uc?export=view&id=1tiaVx2dea2rct01yTGNYpr_Qe3kDufcO)
 
@@ -26,6 +26,7 @@ Mi meta principal con la carrera es graduarme con honores y seguir destacando en
 - Guitarrista de hace 8 años 🎸
 - HALO es mi franquicia de videojuegos favorita 🎮
 - Me gusta mucho la naturaleza y me relajan los arboles 🌳
+- Aprendo con facilidad cualquier tema que sea de mi interés 🧠
 
 ---
 
