@@ -1,6 +1,6 @@
 # NotsoJharedtroll0x17's 5OUL ON D!SPLAY
 
-<img src="" 
+![](https://drive.google.com/uc?export=view&id=1tiaVx2dea2rct01yTGNYpr_Qe3kDufcO)
 
 **fun fact:** mi nombre de usuario de github es una variante del gamertag que he acostumbrado usar en videojuegos por 8 años.
 
@@ -40,3 +40,5 @@ Mi meta principal con la carrera es graduarme con honores y seguir destacando en
 <br />Image by <a href="https://es.cooltext.com">Cool Text: Free Logos and Buttons</a> - <a href="https://es.cooltext.com/Edit-Logo?LogoID=4040554153">Create An Image Just Like This</a>
 
 COOL IMAGES LINK: https://images.cooltext.com/5582469.gif
+
+![](https://drive.google.com/uc?export=view&id=1NyFE74dh_SUd1ujtsWuXR0admDubfRQp)
