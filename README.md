@@ -30,13 +30,6 @@ Mi meta principal con la carrera es graduarme con honores y seguir destacando en
 
 ---
 
-## Horario de clase (Lenguajes de Interfaz)
-|    **Hora**   | **Lunes** | **Martes** | **Miercoles** | **Jueves** |
-|:-------------:|:---------:|:----------:|:-------------:|:----------:|
-| 16:00 - 17:00 | LI        | LI         | LI            | LI         |
-
----
-
 <a href="https://es.cooltext.com"><img src="https://images.cooltext.com/5582469.gif" width="125" height="15" alt="" /></a>
 <br />Image by <a href="https://es.cooltext.com">Cool Text: Free Logos and Buttons</a> - <a href="https://es.cooltext.com/Edit-Logo?LogoID=4040554153">Create An Image Just Like This</a>
 
