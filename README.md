@@ -8,7 +8,7 @@
 
 ## Who am I
 
-Soy un estudiante de tiempo completo en la carrera de Ingeniería en Sistemas Computacionales en el Instituto Tecnolóico de Tijuana con un promedio
+Soy un estudiante de tiempo completo en la carrera de Ingeniería en Sistemas Computacionales con un promedio
 global actual de 95.
 
 Mi meta principal con la carrera es graduarme con honores y seguir destacando en estos ámbitos de las Ciencias Computacionales, específicamente programación de sistemas y de los fierros \m/
