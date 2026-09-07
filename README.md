@@ -2,4 +2,4 @@
 
 _My Personal Website:_ https://notsojharedtrollox17.github.io/PersonalWebsite/
 
-Open Innovation Engineer and Independent Researcher investigating the computational mechanisms of Large Language Models through the replication and extension of mechanistic interpretability research.
+AI/ML Systems Engineer with a systems-first approach to intelligent computing, working across edge-device deployment, hardware–software integration, and applied machine learning. Alongside industry practice, I independently explore academic questions in mechanistic interpretability and neural representations through reproducible experimentation.
